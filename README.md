@@ -1,2 +1,2 @@
 # shapez-fullscreen
-Fullscreen hotkey for shapez
+Fullscreen hotkey mod for shapez
