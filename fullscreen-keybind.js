@@ -7,6 +7,7 @@ const METADATA = {
     id: "fullscreen-binding",
     description: "Adds a keybinding for fullscreen mode",
     minimumGameVersion: ">=1.5.0",
+    modId: "2689076",
 
     // You can specify this parameter if savegames will still work
     // after your mod has been uninstalled
