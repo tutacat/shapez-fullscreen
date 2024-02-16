@@ -1,6 +1,6 @@
 # shapez-fullscreen
-Fullscreen hotkey mod for shapez
-Default key: F11
+Fullscreen hotkey mod for shapez. Default key: F11
+
 It can only be used while the game level is open currently.
 
 ## Download the mod:
