@@ -11,4 +11,4 @@ Or from the in-game mod browser.
 
 This is compatible with the skUpdate mod.
 
-![Mod thumbnail: add F11 to the game](thumb.svg "Add F11 to the game"
+![Mod thumbnail: add F11 to the game](thumb.svg "Add F11 to the game")
